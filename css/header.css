@@ -1,0 +1,49 @@
+.mdani li a{
+  
+  
+}
+.mdani li a::before{
+  content: "";
+  display: block;
+  width: 228px;
+  height: 228px;
+  background-size: cover;
+  background-position: center;
+  background-color: #ccc;
+  grid-row: 1 / span 2;
+  margin: 20px;
+  
+}
+.mdani li.md1 a::before{
+  background-image: url(../img/12.jpg)
+}
+.mdani li.md2 a::before{
+  background-image: url(../img/13.jpg)
+}
+.mdani li.md3 a::before{
+  background-image: url(../img/14.jpg)
+}
+.mdani li.md4 a::before{
+  background-image: url(../img/15.jpg)
+}
+.mdani li.md5 a::before{
+  background-image: url(../img/16.jpg)
+}
+.mdani li.md6 a::before{
+  background-image: url(../img/17.jpg)
+}
+.mdani li.md7 a::before{
+  background-image: url(../img/18.jpg)
+}
+.mdani li.md8 a::before{
+  background-image: url(../img/19.jpg)
+}
+.mdani li.md9 a::before{
+  background-image: url(../img/20.jpg)
+}
+.mdani li.md10 a::before{
+  background-image: url(../img/21.jpg)
+}
+.mdani li.md11 a::before{
+  background-image: url(../img/22.png)
+}
